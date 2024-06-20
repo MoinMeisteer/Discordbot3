@@ -119,4 +119,4 @@ async def on_command_error(ctx, error):
     print(f'Error: {str(error)}')
 
 
-bot.run('MTI1MjYzODU2NTg1MDkzOTQyMw.G1PgzO.5vCxhYrwifa_VPPqx-V-y0E8OdBCxZXDUM9k64')
+bot.run('MTI1MjYzODU2NTg1MDkzOTQyMw.GfHn-K.IAi5r5kgPnp7BnqsqNq2INfI8JsD44oNc3dqO4')
